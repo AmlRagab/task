@@ -1,0 +1,21 @@
+.my-btn {
+  width: 223px;
+  height: 60px;
+}
+
+.my-btn:focus {
+  outline: none;
+}
+
+h1 {
+  font-family: 'Segoe UI';
+}
+
+.home-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+/*# sourceMappingURL=slider.component.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;EACT,SAAS,EAAE,qBAAoB;EAC/B,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "f-vedio.component.scss"
+    ],
+    "names": [],
+    "file": "f-vedio.component.css"
+}

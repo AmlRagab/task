@@ -1,0 +1,63 @@
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem !important;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  .navbar-brand img {
+    width: 50%;
+  }
+  .navbar-brand #gallery {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+  .navbar-brand #gallery img {
+    position: relative;
+  }
+  header {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background-size: 150% !important;
+    height: 80vh;
+  }
+  header .col-md-8 {
+    text-align: center;
+  }
+  #features {
+    margin-top: 70vh !important;
+  }
+  #one h6 {
+    font-size: 2.5rem;
+    padding: 10px;
+  }
+  #one li {
+    margin: 0 !important;
+    text-align: left;
+  }
+  #one p {
+    margin: 0 !important;
+  }
+}
+
+@media (min-width: 768px) {
+  header .col-md-8 h1 {
+    font-size: 3.5 !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 22px;
+  }
+}
+/*# sourceMappingURL=@media.css.map */

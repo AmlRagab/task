@@ -1,0 +1,12 @@
+.bg-gradiand {
+  background-image: url("/assets/action/bg.png");
+}
+
+.bg-gradiand .box {
+  position: absolute;
+  left: 0;
+  top: 80%;
+  -webkit-box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.75);
+}
+/*# sourceMappingURL=action.component.css.map */
